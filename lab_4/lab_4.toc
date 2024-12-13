@@ -1,9 +1,0 @@
-\babel@toc {russian}{}\relax 
-\contentsline {section}{\numberline {1}Цели выполнения работы}{2}{section.1}%
-\contentsline {section}{\numberline {2}Код конечной программы}{2}{section.2}%
-\contentsline {subsection}{\numberline {2.1}MELFA BASIC}{2}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Python}{3}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Описание команд}{4}{subsection.2.3}%
-\contentsline {section}{\numberline {3}Таблица сохраненных точек}{4}{section.3}%
-\contentsline {section}{\numberline {4}Этапы выполнения программы}{5}{section.4}%
-\contentsline {section}{\numberline {5}Выводы}{9}{section.5}%
